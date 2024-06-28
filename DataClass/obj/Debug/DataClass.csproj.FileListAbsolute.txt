@@ -1,0 +1,7 @@
+C:\Проги для учёбы\Приложение для деканата v1.2\DataClass\obj\Debug\DataClass.csproj.AssemblyReference.cache
+C:\Проги для учёбы\Приложение для деканата v1.2\DataClass\obj\Debug\DataClass.csproj.CoreCompileInputs.cache
+C:\Проги для учёбы\Приложение для деканата v1.2\DataClass\bin\Debug\DataClass.exe.config
+C:\Проги для учёбы\Приложение для деканата v1.2\DataClass\bin\Debug\DataClass.exe
+C:\Проги для учёбы\Приложение для деканата v1.2\DataClass\bin\Debug\DataClass.pdb
+C:\Проги для учёбы\Приложение для деканата v1.2\DataClass\obj\Debug\DataClass.exe
+C:\Проги для учёбы\Приложение для деканата v1.2\DataClass\obj\Debug\DataClass.pdb

@@ -1,0 +1,55 @@
+C:\Проги для учёбы\Приложение для деканата v1.2\obj\Debug\Applications.csproj.AssemblyReference.cache
+C:\Проги для учёбы\Приложение для деканата v1.2\obj\Debug\Приложение_для_деканата_v1.AddEvaluations.resources
+C:\Проги для учёбы\Приложение для деканата v1.2\obj\Debug\Приложение_для_деканата_v1.EntranceWindow.resources
+C:\Проги для учёбы\Приложение для деканата v1.2\obj\Debug\Приложение_для_деканата_v1.GeneralForm.resources
+C:\Проги для учёбы\Приложение для деканата v1.2\obj\Debug\Приложение_для_деканата_v1.GroupForm.resources
+C:\Проги для учёбы\Приложение для деканата v1.2\obj\Debug\Приложение_для_деканата_v1._2.Properties.Resources.resources
+C:\Проги для учёбы\Приложение для деканата v1.2\obj\Debug\Приложение_для_деканата_v1.StudentsForm.resources
+C:\Проги для учёбы\Приложение для деканата v1.2\obj\Debug\Applications.csproj.GenerateResource.cache
+C:\Проги для учёбы\Приложение для деканата v1.2\obj\Debug\Applications.csproj.CoreCompileInputs.cache
+C:\Проги для учёбы\Приложение для деканата v1.2\bin\Debug\Приложение для деканата v1.2.exe.config
+C:\Проги для учёбы\Приложение для деканата v1.2\bin\Debug\Приложение для деканата v1.2.exe
+C:\Проги для учёбы\Приложение для деканата v1.2\bin\Debug\Приложение для деканата v1.2.pdb
+C:\Проги для учёбы\Приложение для деканата v1.2\bin\Debug\ConnectionsClass.exe
+C:\Проги для учёбы\Приложение для деканата v1.2\bin\Debug\DataClass.exe
+C:\Проги для учёбы\Приложение для деканата v1.2\bin\Debug\Npgsql.dll
+C:\Проги для учёбы\Приложение для деканата v1.2\bin\Debug\System.Memory.dll
+C:\Проги для учёбы\Приложение для деканата v1.2\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Проги для учёбы\Приложение для деканата v1.2\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Проги для учёбы\Приложение для деканата v1.2\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Проги для учёбы\Приложение для деканата v1.2\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Проги для учёбы\Приложение для деканата v1.2\bin\Debug\System.Threading.Channels.dll
+C:\Проги для учёбы\Приложение для деканата v1.2\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Проги для учёбы\Приложение для деканата v1.2\bin\Debug\System.Text.Json.dll
+C:\Проги для учёбы\Приложение для деканата v1.2\bin\Debug\System.Buffers.dll
+C:\Проги для учёбы\Приложение для деканата v1.2\bin\Debug\System.Collections.Immutable.dll
+C:\Проги для учёбы\Приложение для деканата v1.2\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Проги для учёбы\Приложение для деканата v1.2\bin\Debug\System.Numerics.Vectors.dll
+C:\Проги для учёбы\Приложение для деканата v1.2\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Проги для учёбы\Приложение для деканата v1.2\bin\Debug\System.ValueTuple.dll
+C:\Проги для учёбы\Приложение для деканата v1.2\bin\Debug\System.Text.Encodings.Web.dll
+C:\Проги для учёбы\Приложение для деканата v1.2\bin\Debug\ConnectionsClass.pdb
+C:\Проги для учёбы\Приложение для деканата v1.2\bin\Debug\ConnectionsClass.exe.config
+C:\Проги для учёбы\Приложение для деканата v1.2\bin\Debug\DataClass.pdb
+C:\Проги для учёбы\Приложение для деканата v1.2\bin\Debug\DataClass.exe.config
+C:\Проги для учёбы\Приложение для деканата v1.2\bin\Debug\Npgsql.xml
+C:\Проги для учёбы\Приложение для деканата v1.2\bin\Debug\System.Memory.xml
+C:\Проги для учёбы\Приложение для деканата v1.2\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Проги для учёбы\Приложение для деканата v1.2\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Проги для учёбы\Приложение для деканата v1.2\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Проги для учёбы\Приложение для деканата v1.2\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Проги для учёбы\Приложение для деканата v1.2\bin\Debug\System.Threading.Channels.xml
+C:\Проги для учёбы\Приложение для деканата v1.2\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Проги для учёбы\Приложение для деканата v1.2\bin\Debug\System.Text.Json.xml
+C:\Проги для учёбы\Приложение для деканата v1.2\bin\Debug\System.Buffers.xml
+C:\Проги для учёбы\Приложение для деканата v1.2\bin\Debug\System.Collections.Immutable.xml
+C:\Проги для учёбы\Приложение для деканата v1.2\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Проги для учёбы\Приложение для деканата v1.2\bin\Debug\System.Numerics.Vectors.xml
+C:\Проги для учёбы\Приложение для деканата v1.2\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Проги для учёбы\Приложение для деканата v1.2\bin\Debug\System.ValueTuple.xml
+C:\Проги для учёбы\Приложение для деканата v1.2\bin\Debug\System.Text.Encodings.Web.xml
+C:\Проги для учёбы\Приложение для деканата v1.2\obj\Debug\Applicat.B7D1A39B.Up2Date
+C:\Проги для учёбы\Приложение для деканата v1.2\obj\Debug\Приложение для деканата v1.2.exe
+C:\Проги для учёбы\Приложение для деканата v1.2\obj\Debug\Приложение для деканата v1.2.pdb
+C:\Проги для учёбы\Приложение для деканата v1.2\obj\Debug\Приложение_для_деканата_v1._2.ExaminersForm.resources
+C:\Проги для учёбы\Приложение для деканата v1.2\obj\Debug\Приложение_для_деканата_v1._2.SubjectsForm.resources
